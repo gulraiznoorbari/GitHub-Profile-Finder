@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div align="center">
 
 <h2>GitHub Profile Finder</h2>
 <img src="image.png">
