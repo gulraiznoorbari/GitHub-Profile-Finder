@@ -12,7 +12,7 @@
 <li> jQuery </li>
 <li> Ajax </li>
 <li> GitHub API </li>
-<li> Bootstrap 4 [Theme](https://www.bootswatch.com/) </li>
+<li> Bootstrap 4 <a href="https://bootswatch.com/united/">Theme</li>
 
 ## Author
 
