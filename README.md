@@ -11,8 +11,8 @@
 <h4>Tech Stack Used:</h4>
 <li> jQuery </li>
 <li> Ajax </li>
-<li> Bootstrap 4 </li>
 <li> GitHub API </li>
+<li> Bootstrap 4 [Theme](https://www.bootswatch.com/) </li>
 
 ## Author
 
